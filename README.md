@@ -5,6 +5,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xqy2006&show_icons=true&locale=cn&layout=compact" alt="xqy2006" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xqy2006&show_icons=true&locale=cn&layout=compact&include_all_commits=true" alt="xqy2006" /> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=xqy2006&show_icons=true&locale=cn" alt="xqy2006" /> </p>
